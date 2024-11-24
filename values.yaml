@@ -1,0 +1,5 @@
+postgresql:
+  postgresqlUsername: "custom_user"
+  postgresqlDatabase: "custom_db"
+  persistence:
+    size: "10Gi"
